@@ -16,7 +16,6 @@ Clone the repository:
 
 ```Shell
 $ git clone https://github.com/Amasirat/KalamenoDocumentation.git
-    
 ```
 
 then go into the directory with:
