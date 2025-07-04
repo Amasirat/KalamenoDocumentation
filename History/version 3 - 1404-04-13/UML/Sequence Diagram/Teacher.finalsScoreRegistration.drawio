@@ -1,0 +1,116 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="zMxf11R-eq7wMrZJwJS-">
+    <mxGraphModel dx="703" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="1z1axCgXAba3cJ5LpO2M-2" target="1z1axCgXAba3cJ5LpO2M-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="300" />
+              <mxPoint x="90" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="85" y="240" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-3" value="ورود به سامانه" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="1z1axCgXAba3cJ5LpO2M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="270" as="sourcePoint" />
+            <mxPoint x="495" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-4" value="نمایش داشبورد معلم" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="1z1axCgXAba3cJ5LpO2M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="300" as="targetPoint" />
+            <mxPoint x="495" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-5" value="معلم" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="1z1axCgXAba3cJ5LpO2M-7" target="1z1axCgXAba3cJ5LpO2M-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="230" />
+              <mxPoint x="755" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-8" value="سامانه آموزشگاه" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-9" value="جستجوی کلاس" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="1z1axCgXAba3cJ5LpO2M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="329.65999999999985" as="sourcePoint" />
+            <mxPoint x="495" y="329.65999999999985" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="329.65999999999985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-10" value="نمایش اطلاعات کلاس" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="1z1axCgXAba3cJ5LpO2M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="360" as="targetPoint" />
+            <mxPoint x="495" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-11" value="ثبت نمرات پایان ترم توسط معلم" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="170" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-13" value="انتخاب گزینه افزودن نمره امتحان پایانی" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="1z1axCgXAba3cJ5LpO2M-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="390" as="sourcePoint" />
+            <mxPoint x="495" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-14" value="نمایش لیست دانش آموزان برای وارد کردن نمره" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="1z1axCgXAba3cJ5LpO2M-7" target="1z1axCgXAba3cJ5LpO2M-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="420" as="targetPoint" />
+            <mxPoint x="495" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-15" value="وارد کردن نمره تمامی دانش آموزان" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="450" as="sourcePoint" />
+            <mxPoint x="750" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1z1axCgXAba3cJ5LpO2M-16" value="ثبت نمرات و نمایش نمرات برای چک پایانی" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="480" as="targetPoint" />
+            <mxPoint x="750" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

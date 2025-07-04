@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="X2dKFIyVikUCsjly3h5V">
+    <mxGraphModel dx="556" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-5" value="دانش آموز" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="590" width="200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-6" value="&amp;nbsp;ورود به سامانه&lt;div&gt;&amp;nbsp;خروج از سامانه&lt;/div&gt;&lt;div&gt;بازیابی و تغییر رمز عبور&lt;/div&gt;&lt;div&gt;مشاهده اعلانات عمومی&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;مشاهده صفحات وبلاگ&lt;/span&gt;&lt;/div&gt;&lt;div&gt;مشاهده داشبورد شخصی&lt;/div&gt;&lt;div&gt;مشاهده کلاس جاری&lt;/div&gt;&lt;div&gt;مشاهده جلسات کلاس&lt;/div&gt;&lt;div&gt;مشاهده فایل های آموزشی&lt;/div&gt;&lt;div&gt;مشاهده وضعیت مالی&lt;/div&gt;&lt;div&gt;مشاهده نمرات کلاس&lt;/div&gt;&lt;div&gt;مشاهده سوابق تحصیلی&lt;/div&gt;&lt;div&gt;مشاهده اعلانات کلاس&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="TKyo1vMWFpd9OqknzyIL-5">
+          <mxGeometry x="10" y="30" width="190" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-13" value="معلم" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="590" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-14" value="&amp;nbsp;ورود به سامانه&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;خروج از سامانه&lt;/span&gt;&lt;div&gt;&amp;nbsp;بازیابی و تغییر رمز عبور&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده اعلانات عمومی&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده صفحات وبلاگ&lt;/div&gt;&lt;/div&gt;&lt;div&gt;مشاهده کلاس های تدریس شده&lt;/div&gt;&lt;div&gt;ایجاد جلسه جدید&lt;/div&gt;&lt;div&gt;شروع / پایان جلسه&lt;/div&gt;&lt;div&gt;ثبت حضور غیاب&lt;/div&gt;&lt;div&gt;ثبت نمرات امتحانات&lt;/div&gt;&lt;div&gt;ثبت نمرات دانش‌آموزان&lt;/div&gt;&lt;div&gt;بارگذاری فایل آموزشی&lt;/div&gt;&lt;div&gt;حذف فایل آموزشی&lt;/div&gt;&lt;div&gt;ارسال اعلان به کلاس&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="TKyo1vMWFpd9OqknzyIL-13">
+          <mxGeometry x="10" y="30" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-15" value="کارکنان" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="240" width="200" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-16" value="&amp;nbsp;ورود به سامانه&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;خروج از سامانه&lt;/span&gt;&lt;div&gt;&amp;nbsp;بازیابی و تغییر رمز عبور&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده اعلانات عمومی&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده صفحات وبلاگ&lt;/div&gt;&lt;/div&gt;&lt;div&gt;ثبت نام دانش آموز جدید&lt;/div&gt;&lt;div&gt;ثبت دانش آموز در کلاس&lt;/div&gt;&lt;div&gt;حذف دانش آموز در کلاس&lt;/div&gt;&lt;div&gt;مشاهده / ویرایش بدهی&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ثبت پرداخت حضوری&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ثبت نتیجه آزمون تعیین سطح&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تعریف کلاس جدید&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ویرایش / حذف کلاس&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;زمانبندی کلاس&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ارسال اعلان عمومی&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تخصیص معلم به کلاس&lt;/span&gt;&lt;/div&gt;&lt;div&gt;تعریف بازه زمانی جدید&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="TKyo1vMWFpd9OqknzyIL-15">
+          <mxGeometry x="10" y="30" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-17" value="مدیر" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="240" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-18" value="&amp;nbsp;ورود به سامانه&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;خروج از سامانه&lt;/span&gt;&lt;div&gt;&amp;nbsp;بازیابی و تغییر رمز عبور&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده اعلانات عمومی&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده صفحات وبلاگ&lt;/div&gt;&lt;/div&gt;&lt;div&gt;افزودن معلم / کارکنان / مدیر&lt;/div&gt;&lt;div&gt;ویرایش / حذف کاربران&lt;/div&gt;&lt;div&gt;تعریف نقش جدید&lt;/div&gt;&lt;div&gt;مشاهده داشبورد تمام کاربران&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="TKyo1vMWFpd9OqknzyIL-17">
+          <mxGeometry x="10" y="30" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-19" value="نویسنده" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="240" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TKyo1vMWFpd9OqknzyIL-20" value="&amp;nbsp;ورود به سامانه&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;خروج از سامانه&lt;/span&gt;&lt;div&gt;&amp;nbsp;بازیابی و تغییر رمز عبور&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده اعلانات عمومی&lt;/div&gt;&lt;div&gt;&amp;nbsp;مشاهده صفحات وبلاگ&lt;/div&gt;&lt;/div&gt;&lt;div&gt;افزودن مقاله جدید&lt;/div&gt;&lt;div&gt;ویرایش / حذف مقاله&lt;/div&gt;&lt;div&gt;مشاهده لیست مقالات&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="TKyo1vMWFpd9OqknzyIL-19">
+          <mxGeometry x="10" y="30" width="190" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
