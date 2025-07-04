@@ -1,0 +1,133 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="sC0mUEOZZUr-3Hcr3Wd-">
+    <mxGraphModel dx="703" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="LHCY9d1Kn_EU3z5C6skH-2" target="LHCY9d1Kn_EU3z5C6skH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="290" />
+              <mxPoint x="110" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="105" y="220" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-3" value="ورود به سامانه" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="260" as="sourcePoint" />
+            <mxPoint x="515" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-4" value="نمایش داشبورد کارمند" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="290" as="targetPoint" />
+            <mxPoint x="515" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-5" value="کارمند" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="LHCY9d1Kn_EU3z5C6skH-7" target="LHCY9d1Kn_EU3z5C6skH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="290" />
+              <mxPoint x="520" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="515" y="240" width="10" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-8" value="سامانه آموزشگاه" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-9" value="جستجوی دانش آموز" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="319.65999999999997" as="sourcePoint" />
+            <mxPoint x="515" y="319.65999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="319.65999999999997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-10" value="نمایش اطلاعات آموز" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="350" as="targetPoint" />
+            <mxPoint x="515" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="365" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-11" value="پرداخت حضوری شهریه" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="LHCY9d1Kn_EU3z5C6skH-13" target="LHCY9d1Kn_EU3z5C6skH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="290" />
+              <mxPoint x="775" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-14" value="شخص" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-15" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-16" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-17" value="مراجعه برای پرداخت شهریه" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="230" as="sourcePoint" />
+            <mxPoint x="115" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="315" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-18" value="ارائه کد رهگیری و رسید پرداخت به دانش آموز" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="LHCY9d1Kn_EU3z5C6skH-2" target="LHCY9d1Kn_EU3z5C6skH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="440.0000000000001" as="sourcePoint" />
+            <mxPoint x="770" y="440.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-19" value="مشخص کردن مقدار پرداخت شده و ثبت آن" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="380" as="sourcePoint" />
+            <mxPoint x="515" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHCY9d1Kn_EU3z5C6skH-20" value="ثبت نهایی پرداخت و نشان دادن تاییدیه و کد رهگیری" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="LHCY9d1Kn_EU3z5C6skH-7" target="LHCY9d1Kn_EU3z5C6skH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="410" as="targetPoint" />
+            <mxPoint x="515" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="365" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

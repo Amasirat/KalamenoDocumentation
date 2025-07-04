@@ -1,0 +1,98 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="6iiGOPdXzl6P7JrdObj-">
+    <mxGraphModel dx="703" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="-P4QmvMXvIeQ-V0GVb2z-2" target="-P4QmvMXvIeQ-V0GVb2z-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="290" />
+              <mxPoint x="90" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="85" y="230" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-3" value="ورود به سامانه" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="-P4QmvMXvIeQ-V0GVb2z-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="260" as="sourcePoint" />
+            <mxPoint x="495" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-4" value="نمایش داشبورد کارمند" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="-P4QmvMXvIeQ-V0GVb2z-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="290" as="targetPoint" />
+            <mxPoint x="495" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-5" value="کارمند" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="-P4QmvMXvIeQ-V0GVb2z-7" target="-P4QmvMXvIeQ-V0GVb2z-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="220" />
+              <mxPoint x="755" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-8" value="سامانه آموزشگاه" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-9" value="جستجوی دوره" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="-P4QmvMXvIeQ-V0GVb2z-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="319.65999999999985" as="sourcePoint" />
+            <mxPoint x="495" y="319.65999999999985" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="319.65999999999985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-10" value="نمایش دوره" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="-P4QmvMXvIeQ-V0GVb2z-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="350" as="targetPoint" />
+            <mxPoint x="495" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-11" value="تخصیص معلم به دوره" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-13" value="انتخاب معلم از لیست کشویی بازشده" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="-P4QmvMXvIeQ-V0GVb2z-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="380" as="sourcePoint" />
+            <mxPoint x="495" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P4QmvMXvIeQ-V0GVb2z-14" value="ثبت معلم به عنوان استاد دوره" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="-P4QmvMXvIeQ-V0GVb2z-7" target="-P4QmvMXvIeQ-V0GVb2z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="410" as="targetPoint" />
+            <mxPoint x="495" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="345" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

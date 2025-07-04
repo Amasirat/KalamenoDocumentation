@@ -1,0 +1,105 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="Y7I097kZaWtVfg2m_0l9">
+    <mxGraphModel dx="1399" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rmfRu95VJXuebXg5UE-4-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#19AAFF;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-2" value="ورود به داشبورد" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#87FFA4;strokeColor=#4BFF30;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-1" target="rmfRu95VJXuebXg5UE-4-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137.5" y="170" as="sourcePoint" />
+            <mxPoint x="297.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-4" value="ورود به بخش افزودن کتاب" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="55" y="227" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-2" target="rmfRu95VJXuebXg5UE-4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="122.5" y="240" as="sourcePoint" />
+            <mxPoint x="122.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-6" value="درخواست ثبت" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="45" y="490" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-6" target="rmfRu95VJXuebXg5UE-4-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="530" as="sourcePoint" />
+            <mxPoint x="122.5" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-9" target="rmfRu95VJXuebXg5UE-4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-9" value="بررسی قواعد:&lt;br&gt;&lt;div&gt;مشخصات باید کامل باشد&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="30" y="590" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-10" value="درست" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-12" target="rmfRu95VJXuebXg5UE-4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-11" value="نادرست" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-12" target="rmfRu95VJXuebXg5UE-4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-12" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="340" y="595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-14" target="rmfRu95VJXuebXg5UE-4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-14" value="ثبت در دیتابیس" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-16" target="rmfRu95VJXuebXg5UE-4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-16" value="نمایش پیغام خطای مناسب" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="480" y="605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-18" target="rmfRu95VJXuebXg5UE-4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-18" value="لغو فرآیند" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-19" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-21" target="rmfRu95VJXuebXg5UE-4-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-20" value="بله" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-21" target="rmfRu95VJXuebXg5UE-4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-21" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="655" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-23" value="افزودن کتاب توسط کارکنان" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="287" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-4" target="rmfRu95VJXuebXg5UE-4-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="117.5" y="330" as="sourcePoint" />
+            <mxPoint x="165" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-25" value="تکمیل مشخصات کتاب" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rmfRu95VJXuebXg5UE-4-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="rmfRu95VJXuebXg5UE-4-25" target="rmfRu95VJXuebXg5UE-4-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="128" y="80" as="sourcePoint" />
+            <mxPoint x="129" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
