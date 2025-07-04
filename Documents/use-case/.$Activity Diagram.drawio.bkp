@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="mLKg5bd0k-BaUeNcZWwz">
-    <mxGraphModel dx="1332" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1959" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,13 +62,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="szFlSiDRmco4hTzhmQd9-21" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
-          <mxGeometry x="340" y="645" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JhskCI9VYiCT5tIumt2R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="szFlSiDRmco4hTzhmQd9-23" target="szFlSiDRmco4hTzhmQd9-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="370" y="645" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="szFlSiDRmco4hTzhmQd9-23" value="ثبت در دیتابیس" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="szFlSiDRmco4hTzhmQd9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="szFlSiDRmco4hTzhmQd9-25" target="szFlSiDRmco4hTzhmQd9-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -147,9 +144,6 @@
         </mxCell>
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-15" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="360" y="1475" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JhskCI9VYiCT5tIumt2R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nb8gfaSwpoZ_mp8STd5H-16" target="nb8gfaSwpoZ_mp8STd5H-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-16" value="ثبت در دیتابیس" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="340" y="1640" width="120" height="60" as="geometry" />
@@ -252,9 +246,6 @@
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-45" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="362.5" y="2265" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JhskCI9VYiCT5tIumt2R-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nb8gfaSwpoZ_mp8STd5H-46" target="nb8gfaSwpoZ_mp8STd5H-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-46" value="ثبت در دیتابیس" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -350,11 +341,8 @@
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-72" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
           <mxGeometry x="360" y="3095" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JhskCI9VYiCT5tIumt2R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nb8gfaSwpoZ_mp8STd5H-73" target="nb8gfaSwpoZ_mp8STd5H-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-73" value="ثبت در دیتابیس" style="whiteSpace=wrap;html=1;fillColor=#87FFA4;strokeColor=#4BFF30;fontColor=#000000;rounded=1;arcSize=40;" parent="1" vertex="1">
-          <mxGeometry x="340" y="3220" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="3260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nb8gfaSwpoZ_mp8STd5H-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nb8gfaSwpoZ_mp8STd5H-75" target="nb8gfaSwpoZ_mp8STd5H-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
